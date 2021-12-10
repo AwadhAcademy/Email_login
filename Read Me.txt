@@ -1,0 +1,22 @@
+By Ayush Gupta.
+=====================================================================
+Description 
+ * Fully Costamized user loogin ,Logout, Signup Form With Email Conformation 
+ * project build in Djano-3 ( A Python web framework)
+ * it contains one app name 'loogin_pip_line'
+-------------------------------------------------------------------------
+Requriments 
+ * python 3 
+ * djanno
+ * pillow
+ * six (djano external framework)
+ * Django-mail (djano external framework)
+------------------------------------------------------------------------
+Bugs
+ * some problem while sending unique email confirmation
+--------------------------------------------------------------------------
+Correction 
+ * Basic Message acc to company requriments
+ * modefy info.py file in \loogin_pipe_line\info.py
+   - Enter Correct Email With passwod
+-----------------------------------------------------------------------
